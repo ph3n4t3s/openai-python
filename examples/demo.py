@@ -25,7 +25,7 @@ stream = client.chat.completions.create(
     messages=[
         {
             "role": "user",
-            "content": "How do I output all files in a directory using Python?",
+            "content": "Comment puis-je voir le contenu du répertoire courant en Python?",
         },
     ],
     stream=True,

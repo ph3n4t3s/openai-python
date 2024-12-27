@@ -5,7 +5,7 @@ from openai import OpenAI
 # gets OPENAI_API_KEY from your environment variables
 openai = OpenAI()
 
-prompt = "An astronaut lounging in a tropical resort in space, pixel art"
+prompt = "An astronaut lounging in a tropical resort in space, mystic art"
 model = "dall-e-3"
 
 
